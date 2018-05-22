@@ -37,3 +37,7 @@
 * richard
 
 ![richard](png/richard.png)
+
+* russ
+
+![russ](png/russ.png)
