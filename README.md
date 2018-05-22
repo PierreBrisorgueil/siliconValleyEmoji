@@ -1,5 +1,9 @@
 ## Silicon Valley Emojis for Slack or Whatever
 
+### Slack example
+
+![example](png/example.png)
+
 ### 128 * 128
 
 * bighead
